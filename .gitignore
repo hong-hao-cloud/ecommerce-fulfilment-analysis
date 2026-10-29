@@ -1,0 +1,21 @@
+# 原始数据（体积大，不提交）
+data/Amazon*.csv
+data/raw/
+*.csv
+!data/sample_1000.csv
+!results/*.csv
+
+# Power BI 临时文件
+*.pbix
+*.pbix~
+~$*
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
