@@ -1,0 +1,6 @@
+fulfilment,status,cnt
+Merchant,"Shipped - Returned to Seller",1953
+Merchant,"Shipped - Returning to Seller",145
+Merchant,"Shipped - Rejected by Buyer",11
+Merchant,"Shipped - Lost in Transit",5
+Merchant,"Shipped - Damaged",1
